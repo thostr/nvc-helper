@@ -1,6 +1,7 @@
 {
     "feelings": [
-      { "id": 1, "feeling": "Frustrated", "language": "en-US", "description": "A feeling of being frustrated" }
+      { "id": 1, "feeling": "Frustrated", "language": "en-US", "description": "A feeling of being frustrated" },
+      { "id": 2, "feeling": "Happy", "language": "en-US", "description": "Happy warm feeling" }
     ],
     "needs": [
       { "id": 1, "need": "Respect", "language": "en-US", "description": "The need for respect"}
